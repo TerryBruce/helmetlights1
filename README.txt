@@ -16,6 +16,14 @@ neopixels numbered 0-7, 8-15, 16-23, and 24-31 mounted on the rear side
 of the helmet and 2 neopixel rings (http://www.adafruit.com/products/1463)
 mounted into a set of mock goggles (http://www.adafruit.com/products/1577)
 
+Neopixel rings numbered 
+Left 0-15, Right 16-31
+
+or if single pixel is used as center
+Neopixel rings numbered 
+Left 0-15, Left Center 16
+Right 17-32, Right Center 33
+
 The Rear facing lights will be used as red rear warning lights.
 The front facing lights will be used as a "Be Seen" set of lights, not a 
 "See" set of lights. I would like to as a single pixels in the center of
